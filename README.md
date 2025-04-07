@@ -1,11 +1,49 @@
-# 🎮 Projeto de Jogos em Python para Estudos de Bibliotecas
+# 🐍 Estudos em Python
 
-**Descrição:**  
-Este repositório contém uma coleção de pequenos projetos de jogos desenvolvidos em Python, com o objetivo de explorar e estudar diferentes bibliotecas voltadas para desenvolvimento de games. Cada jogo foca em um conjunto específico de habilidades e conceitos, permitindo o aprendizado prático e a experimentação com funcionalidades diversas.
+Este repositório contém anotações, exercícios e pequenos projetos desenvolvidos durante meu processo de aprendizado em Python.
 
-**Objetivo:**  
-Aprender e aplicar conceitos de programação de jogos, como física, interação com o usuário e animações, usando bibliotecas populares como Pygame, Arcade, e outras.
+## 📁 Organização
 
-## Funcionalidades principais:
-- 📚 Projetos segmentados para estudar bibliotecas específicas.
-- 📝 Código comentado para facilitar o entendimento.
+- `fundamentos/` – Sintaxe básica, tipos de dados, estruturas de controle, funções.
+- `oop/` – Programação orientada a objetos com classes e herança.
+- `algoritmos/` – Algoritmos clássicos, estruturas de dados.
+- `automacoes/` – Scripts para automatizar tarefas com Python.
+- `projetos/` – Pequenos projetos práticos para fixar o conteúdo.
+- `notebooks/` – Estudo com Jupyter Notebooks.
+
+## 🚀 Tópicos Estudados
+
+- Variáveis e tipos de dados
+- Condicionais e loops
+- Funções e módulos
+- Listas, dicionários, tuplas e conjuntos
+- Orientação a objetos
+- Manipulação de arquivos
+- Bibliotecas úteis (`os`, `random`, `datetime`, `requests`, etc.)
+- Automatização de tarefas
+- Introdução a APIs e web com `Flask`
+
+## 💡 Objetivo
+
+Aprofundar meus conhecimentos em Python, aplicando a teoria em exemplos práticos e criando soluções simples para problemas do dia a dia.
+
+## 📌 Como usar
+
+Clone o repositório:
+```bash
+git clone https://github.com/BrendaGarcez/estudos-python.git
+```
+
+Rode qualquer script com:
+```bash
+python caminho/do/arquivo.py
+```
+
+Para notebooks:
+```bash
+jupyter notebook notebooks/
+```
+
+
+Feito com 💙 por [Brenda Garcez](https://github.com/BrendaGarcez)
+```
